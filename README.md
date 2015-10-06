@@ -29,5 +29,6 @@ This is the CodePath for iOS Designers course, weeek 3 assignment for the Dropbo
 + *[ ] Optional: Shake to undo.
 + *[x] Additional: Use container view
 + *[x] Additional: Programattcally add global UIImage views to be called by other views
-+ 
+
+
 ![Video Walkthrough](mh-mailbox.gif)

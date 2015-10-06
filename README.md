@@ -6,9 +6,6 @@ This is the CodePath for iOS Designers course, weeek 3 assignment for the Dropbo
 
 ## Completed User Stories
 
-+ *[x] Static photo tiles on the initial screen
-+ *[ ] Optional: Photo tiles move with scrolling
-
 + *[x] On dragging the message left...
 + *[x] Initially, the revealed background color should be gray.
 + *[x] As the reschedule icon is revealed, it should start semi-transparent and become fully opaque. If released at this point, the message should return to its initial position.
@@ -32,3 +29,5 @@ This is the CodePath for iOS Designers course, weeek 3 assignment for the Dropbo
 + *[ ] Optional: Shake to undo.
 + *[x] Additional: Use container view
 + *[x] Additional: Programattcally add global UIImage views to be called by other views
++ 
+![Video Walkthrough](mh-mailbox.gif)
